@@ -18,7 +18,7 @@ El reto de esta práctica de laboratorio consiste en implementar una **versión 
 * Dos categorías de preguntas.
 * 10 preguntas por categoría.
 
-Una vez se inicie el programa, se le debe solicitar al usuario su nombre, el cual deberá ser usado durante el progreso en el juego. Posteriormente, el usuario deberá confirmar la selección aleatoria de la categoría de la pregunta, el programa debe mostrar la categoría seleccionada y a continuación desplegar la pregunta, también de manera aleatoria, junto con las opciones de respuesta. A continuación, el usuario deberá seleccionar su opción de respuesta. 
+Una vez se inicie el programa, se le debe solicitar al usuario su nombre, el cual deberá ser usado durante el progreso en el juego. Posteriormente, el programa generará una categoría de forma aleatoria y a continuación desplegará la pregunta aleatoria, junto con las opciones de respuesta. A continuación, el usuario deberá seleccionar su opción de respuesta. 
 
 El mecanismo de puntuación y penalización del usuario es de libre elección por parte del equipo de trabajo, en todo caso el usuario debe poder finalizar el juego en cualquier momento. Si el usuario ha respondido correctamente todas las preguntas de las dos categorías, el programa debe finalizar con un mensaje de felicitación para el usuario.
 
