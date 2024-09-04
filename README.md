@@ -30,7 +30,7 @@ El mecanismo de puntuación y penalización del usuario es de libre elección po
  * El código deberá ser sustentado por todos los miembros del equipo de trabajo.
 
 
-# Entrega del laboratorio
+## Entrega del laboratorio
 
 El laboratorio debe ser presentado mediante:
 
