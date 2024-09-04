@@ -12,7 +12,7 @@ Esta práctica de laboratorio busca dar uso a todos los elementos básicos del l
 
 ## Descripción del reto
 
-El reto de esta práctica de laboratorio consiste en implementar una **versión minimalista para terminal del juego Preguntados** **(*Trivia Crack*)**. En ese sentido, se espera que el juego soporte las siguientes características:
+El reto de esta práctica de laboratorio consiste en implementar una **versión minimalista para terminal del juego Preguntados** **(*Trivia Crack*)** [https://en.wikipedia.org/wiki/Trivia_Crack]. En ese sentido, se espera que el juego soporte las siguientes características:
 
 * Un único jugador.
 * Dos categorías de preguntas.
