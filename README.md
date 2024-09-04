@@ -8,7 +8,7 @@ GDSPROC <br />
 Uniquindío <br />
 </p>
 
-Esta práctica de laboratorio busca poner en práctica todos los elementos básicos del lenguaje de programación Python. Para tal fin, se propone un reto que está relacionado directamente con el proyecto final y que pondrá en práctica estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones.
+Esta práctica de laboratorio busca dar uso a todos los elementos básicos del lenguaje de programación Python. Para tal fin, se propone un reto que está relacionado directamente con el proyecto final y que pondrá en práctica estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones.
 
 ## Descripción del reto
 
